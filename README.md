@@ -3,5 +3,6 @@ To copy a message to myself if specific users in the specific group chats send o
 
 
 # to be ready
-register telegram API via https://core.telegram.org/api/obtaining_api_id
-
+- register telegram API via https://core.telegram.org/api/obtaining_api_id
+- pip install the library
+- tested on Python 3.10.11
