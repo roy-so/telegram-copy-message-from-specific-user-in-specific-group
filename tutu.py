@@ -13,7 +13,7 @@ group_chat_id1 =
 group_chat_id2 = 
 original_number = " "
 new_number = " "
-user1_id = " git
+user1_id = " "
 user2_id = " "
 
 # Create a new TelegramClient with your API credentials
